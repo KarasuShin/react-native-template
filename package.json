@@ -1,0 +1,28 @@
+{
+  "name": "react-native-template-karasu",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarasuShin/react-native-template.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "template"
+  ],
+  "author": "Karasu Shin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarasuShin/react-native-template/issues"
+  },
+  "homepage": "https://github.com/KarasuShin/react-native-template#readme"
+}
