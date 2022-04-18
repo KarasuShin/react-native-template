@@ -3,7 +3,7 @@
 <br>
 
 <p align='center'>
-    <a href="https://github.com/KarasuShin/react-native-template/blob/main/README.md">English</a> | <b>简体中文</b>
+    <a href="https://github.com/KarasuShin/react-native-template/blob/master/README.md">English</a> | <b>简体中文</b>
 </p>
 
 <br>
